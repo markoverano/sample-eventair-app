@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODEZ\\code samples\\EventsAir\\SampleEventsAirApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B73BEDD-760E-47C8-A0F8-DEE8F0ECB356}|SampleEventsAirApp.csproj|d:\\codez\\code samples\\eventsair\\sampleeventsairapp\\services\\eventsairservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B73BEDD-760E-47C8-A0F8-DEE8F0ECB356}|SampleEventsAirApp.csproj|solutionrelative:services\\eventsairservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B73BEDD-760E-47C8-A0F8-DEE8F0ECB356}|SampleEventsAirApp.csproj|d:\\codez\\code samples\\eventsair\\sampleeventsairapp\\repositories\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B73BEDD-760E-47C8-A0F8-DEE8F0ECB356}|SampleEventsAirApp.csproj|solutionrelative:repositories\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B73BEDD-760E-47C8-A0F8-DEE8F0ECB356}|SampleEventsAirApp.csproj|d:\\codez\\code samples\\eventsair\\sampleeventsairapp\\controllers\\eventaircontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B73BEDD-760E-47C8-A0F8-DEE8F0ECB356}|SampleEventsAirApp.csproj|solutionrelative:controllers\\eventaircontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B73BEDD-760E-47C8-A0F8-DEE8F0ECB356}|SampleEventsAirApp.csproj|d:\\codez\\code samples\\eventsair\\sampleeventsairapp\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B73BEDD-760E-47C8-A0F8-DEE8F0ECB356}|SampleEventsAirApp.csproj|solutionrelative:repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B73BEDD-760E-47C8-A0F8-DEE8F0ECB356}|SampleEventsAirApp.csproj|d:\\codez\\code samples\\eventsair\\sampleeventsairapp\\eventairgraphqlclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B73BEDD-760E-47C8-A0F8-DEE8F0ECB356}|SampleEventsAirApp.csproj|solutionrelative:eventairgraphqlclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B73BEDD-760E-47C8-A0F8-DEE8F0ECB356}|SampleEventsAirApp.csproj|d:\\codez\\code samples\\eventsair\\sampleeventsairapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B73BEDD-760E-47C8-A0F8-DEE8F0ECB356}|SampleEventsAirApp.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B73BEDD-760E-47C8-A0F8-DEE8F0ECB356}|SampleEventsAirApp.csproj|d:\\codez\\code samples\\eventsair\\sampleeventsairapp\\dtos\\createeventrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B73BEDD-760E-47C8-A0F8-DEE8F0ECB356}|SampleEventsAirApp.csproj|solutionrelative:dtos\\createeventrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B73BEDD-760E-47C8-A0F8-DEE8F0ECB356}|SampleEventsAirApp.csproj|d:\\codez\\code samples\\eventsair\\sampleeventsairapp\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B73BEDD-760E-47C8-A0F8-DEE8F0ECB356}|SampleEventsAirApp.csproj|solutionrelative:services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B73BEDD-760E-47C8-A0F8-DEE8F0ECB356}|SampleEventsAirApp.csproj|d:\\codez\\code samples\\eventsair\\sampleeventsairapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B73BEDD-760E-47C8-A0F8-DEE8F0ECB356}|SampleEventsAirApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B73BEDD-760E-47C8-A0F8-DEE8F0ECB356}|SampleEventsAirApp.csproj|d:\\codez\\code samples\\eventsair\\sampleeventsairapp\\services\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B73BEDD-760E-47C8-A0F8-DEE8F0ECB356}|SampleEventsAirApp.csproj|solutionrelative:services\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B73BEDD-760E-47C8-A0F8-DEE8F0ECB356}|SampleEventsAirApp.csproj|d:\\codez\\code samples\\eventsair\\sampleeventsairapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B73BEDD-760E-47C8-A0F8-DEE8F0ECB356}|SampleEventsAirApp.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B73BEDD-760E-47C8-A0F8-DEE8F0ECB356}|SampleEventsAirApp.csproj|d:\\codez\\code samples\\eventsair\\sampleeventsairapp\\services\\ieventairauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B73BEDD-760E-47C8-A0F8-DEE8F0ECB356}|SampleEventsAirApp.csproj|solutionrelative:services\\ieventairauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "D:\\CODEZ\\code samples\\EventsAir\\SampleEventsAirApp\\Repositories\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IEventRepository.cs",
+              "ToolTip": "D:\\CODEZ\\code samples\\EventsAir\\SampleEventsAirApp\\Repositories\\IEventRepository.cs",
+              "RelativeToolTip": "Repositories\\IEventRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T00:29:54.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateEventRequest.cs",
+              "DocumentMoniker": "D:\\CODEZ\\code samples\\EventsAir\\SampleEventsAirApp\\DTOs\\CreateEventRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateEventRequest.cs",
+              "ToolTip": "D:\\CODEZ\\code samples\\EventsAir\\SampleEventsAirApp\\DTOs\\CreateEventRequest.cs",
+              "RelativeToolTip": "DTOs\\CreateEventRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:03:55.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\CODEZ\\code samples\\EventsAir\\SampleEventsAirApp\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "D:\\CODEZ\\code samples\\EventsAir\\SampleEventsAirApp\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:08:03.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "D:\\CODEZ\\code samples\\EventsAir\\SampleEventsAirApp\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "Services\\EventService.cs",
+              "ToolTip": "D:\\CODEZ\\code samples\\EventsAir\\SampleEventsAirApp\\Services\\EventService.cs",
+              "RelativeToolTip": "Services\\EventService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T09:56:43.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventAirController.cs",
+              "DocumentMoniker": "D:\\CODEZ\\code samples\\EventsAir\\SampleEventsAirApp\\Controllers\\EventAirController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventAirController.cs",
+              "ToolTip": "D:\\CODEZ\\code samples\\EventsAir\\SampleEventsAirApp\\Controllers\\EventAirController.cs",
+              "RelativeToolTip": "Controllers\\EventAirController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:49:17.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventsAirService.cs",
+              "DocumentMoniker": "D:\\CODEZ\\code samples\\EventsAir\\SampleEventsAirApp\\Services\\EventsAirService.cs",
+              "RelativeDocumentMoniker": "Services\\EventsAirService.cs",
+              "ToolTip": "D:\\CODEZ\\code samples\\EventsAir\\SampleEventsAirApp\\Services\\EventsAirService.cs",
+              "RelativeToolTip": "Services\\EventsAirService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T03:59:04.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "D:\\CODEZ\\code samples\\EventsAir\\SampleEventsAirApp\\Repositories\\EventRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EventRepository.cs",
+              "ToolTip": "D:\\CODEZ\\code samples\\EventsAir\\SampleEventsAirApp\\Repositories\\EventRepository.cs",
+              "RelativeToolTip": "Repositories\\EventRepository.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAiwFEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T04:15:57.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventairGraphQLClient.cs",
+              "DocumentMoniker": "D:\\CODEZ\\code samples\\EventsAir\\SampleEventsAirApp\\EventairGraphQLClient.cs",
+              "RelativeDocumentMoniker": "EventairGraphQLClient.cs",
+              "ToolTip": "D:\\CODEZ\\code samples\\EventsAir\\SampleEventsAirApp\\EventairGraphQLClient.cs",
+              "RelativeToolTip": "EventairGraphQLClient.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T17:26:41.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\CODEZ\\code samples\\EventsAir\\SampleEventsAirApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\CODEZ\\code samples\\EventsAir\\SampleEventsAirApp\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-06T17:18:49.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "D:\\CODEZ\\code samples\\EventsAir\\SampleEventsAirApp\\Services\\IEventService.cs",
+              "RelativeDocumentMoniker": "Services\\IEventService.cs",
+              "ToolTip": "D:\\CODEZ\\code samples\\EventsAir\\SampleEventsAirApp\\Services\\IEventService.cs",
+              "RelativeToolTip": "Services\\IEventService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T17:25:25.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CODEZ\\code samples\\EventsAir\\SampleEventsAirApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\CODEZ\\code samples\\EventsAir\\SampleEventsAirApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-06T12:09:11.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEventairAuthService.cs",
+              "DocumentMoniker": "D:\\CODEZ\\code samples\\EventsAir\\SampleEventsAirApp\\Services\\IEventairAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\IEventairAuthService.cs",
+              "ToolTip": "D:\\CODEZ\\code samples\\EventsAir\\SampleEventsAirApp\\Services\\IEventairAuthService.cs",
+              "RelativeToolTip": "Services\\IEventairAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T12:06:34.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
